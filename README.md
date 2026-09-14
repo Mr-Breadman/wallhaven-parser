@@ -38,6 +38,6 @@ For more filter options, visit Wallhaven search and copy the URL parameters.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/wallhaven-parser.git
+git clone https://github.com/Mr-Breadman/wallhaven-parser.git
 cd wallhaven-parser
 pip install -r requirements.txt
