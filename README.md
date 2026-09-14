@@ -19,10 +19,14 @@ A Python script that downloads wallpapers from [Wallhaven.cc](https://wallhaven.
 
 To change the wallpaper category, edit the search URL in the link variable:
 link = f'https://wallhaven.cc/search?q=id%3A369&categories=110&purity=100&sorting=favorites&order=desc&page={page}'
-    q=id%3A369 — preset search filter (Dark category)
-    categories=110 — categories (general / anime / people)
-    purity=100 — content purity (SFW / Sketchy / NSFW)
-    sorting=favorites — sorting type
+    
+    q=id%3A369 — preset search filter (Dark category);
+    
+    categories=110 — categories (general / anime / people);
+    
+    purity=100 — content purity (SFW / Sketchy / NSFW);
+    
+    sorting=favorites — sorting type.
 
 For more filter options, visit Wallhaven search and copy the URL parameters.
 
